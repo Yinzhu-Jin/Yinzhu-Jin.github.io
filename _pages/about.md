@@ -14,4 +14,4 @@ My research focuses on developing interpretability methods to better understand 
 
 If you are interested in my work or potential collaboration opportunities, please feel free to reach out to me via email.
 
-[Download my CV here.](assets/Yinzhu_Jin_cv.pdf)
+[Download my resume here.](assets/Yinzhu_Jin_resume.pdf)
