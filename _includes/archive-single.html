@@ -47,7 +47,7 @@
         {% endif %}
 
     {% if post.authors %}
-    <p><strong>Authors:</strong> {{ post.authors }}</p>
+    <p> {{ post.authors | replace: "Yinzhu Jin", "<u>Yinzhu Jin</u>" | markdownify }}</p>
     {% endif %}
     
     {% if post.excerpt and site.read_more != 'enabled' %}
