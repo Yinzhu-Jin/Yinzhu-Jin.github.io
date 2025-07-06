@@ -7,8 +7,10 @@ excerpt: 'Introduces a statistically grounded method for feature attribution by 
 date: 2025-06-04
 venue: 'Medical Imaging with Deep Learning'
 paperurl: 'https://openreview.net/pdf?id=R4lRVjL4KX'
-authors: Yinzhu Jin, Coauthor A, Coauthor B
+authors: Yinzhu Jin, Shen Zhu, P. Thomas Fletcher
 ---
+
+**Yinzhu Jin**, Shen Zhu, P. Thomas Fletcher
 
 ![](/images/publications/feature_attribution.PNG)
 
