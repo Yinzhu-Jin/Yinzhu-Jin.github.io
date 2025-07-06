@@ -3,7 +3,7 @@ title: "Feature Attribution for Deep Learning Models through Total Variance Deco
 collection: publications
 category: conferences
 permalink: /publication/2025-feature-attribution
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'Introduces a statistically grounded method for feature attribution by decomposing model decision variance, enhancing interpretability in deep learning models.'
 date: 2025-06
 venue: 'Medical Imaging with Deep Learning'
 paperurl: 'https://openreview.net/pdf?id=R4lRVjL4KX'
