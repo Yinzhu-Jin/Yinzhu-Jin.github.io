@@ -15,7 +15,10 @@ main:
   #  url: /talks/    
 
   - title: "Teaching/Reviews"
-    url: /teaching/    
+    url: /teaching-reviews/    
+
+  - title: "Education"
+    url: /education/
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -23,11 +26,11 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
