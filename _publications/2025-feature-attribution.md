@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-feature-attribution
 excerpt: 'Introduces a statistically grounded method for feature attribution by decomposing model decision variance, enhancing interpretability in deep learning models.'
-date: 2025-06
+date: 2025-06-04
 venue: 'Medical Imaging with Deep Learning'
 paperurl: 'https://openreview.net/pdf?id=R4lRVjL4KX'
 ---
