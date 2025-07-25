@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-medil
 excerpt: 'Introduces MedIL, an autoencoder utilizing implicit neural representations to generate medical images at arbitrary resolutions, preserving fine anatomical details without resampling.'
 date: 2025-04-12
-venue: 'arXiv'
+venue: 'Deep Generative Models Workshop @ MICCAI'
 paperurl: 'https://arxiv.org/abs/2504.09322'
 authors: Tyler Spears, Shen Zhu, Yinzhu Jin, Aman Shrivastava, P. Thomas Fletcher
 ---
